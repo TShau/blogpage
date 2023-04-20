@@ -1,12 +1,17 @@
 ---
-layout: post
 title:  "Create-Arm-Templates-Using-Visual-Studio-Code"
-date:   2023-03-04 09:00:07
-categories: Azure
+last_modified_at:   2023-03-04 09:00:07
+categories: 
+  - Azure
+tags:
+  - update
+  - Azure
 description: "Quick Tutorial on how to create ARM templates using Visual Studio Code"
 
-published: true
+toc: true
+toc_label: "Getting Started with ARM"
 ---
+
 <!--write an introduction to a blog-->
 In this article, you learn how to create an ARM template using Visual Studio Code. You learn how to create an ARM template from scratch, and how to use the Azure Resource Manager Tools for Visual Studio Code to create an ARM template. You also learn how to use the Azure Resource Manager Tools for Visual Studio Code to validate and deploy an ARM template.
 
