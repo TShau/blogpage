@@ -1,12 +1,12 @@
 ---
-layout: post
 title:  "Why use a static site generator"
-date:   2018-05-28 10:50:07
-categories: development
-description: "There are many ways to make a website, but what about static site generators"
-image: 'https://www.csrhymes.com//img/static-site-generator.jpg'
-published: true
-canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
+last_modified_at: 2018-03-20T16:01:04-04:00
+categories: 
+  - development
+tags:
+  - update
+toc: true
+toc_label: "Getting Started"
 ---
 
 There are many ways to make a website and many different CMS platforms you can use, such as WordPress and Joomla, as well as site builder tools that offer you drag and drop interfaces, but what about static site generators? 
