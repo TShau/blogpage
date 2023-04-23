@@ -6,6 +6,8 @@ main:
     url: /year-archive/
   - title: "Koguma"
     url: /assets/FtuTu1waIAAUkQk.png
+  - title: "Tags"
+    url: /tags/
 #  - title: "Sample Collections"
 #    url: /collection-archive/
 #  - title: "Sitemap"
