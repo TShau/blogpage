@@ -8,6 +8,8 @@ main:
     url: /assets/FtuTu1waIAAUkQk.png
   - title: "Tags"
     url: /tags/
+  - title: "Archive"
+    url: /year-archive/
 #  - title: "Sample Collections"
 #    url: /collection-archive/
 #  - title: "Sitemap"
