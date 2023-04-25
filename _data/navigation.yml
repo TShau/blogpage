@@ -4,8 +4,8 @@ main:
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Posts"
     url: /year-archive/
-  - title: "Koguma"
-    url: /assets/FtuTu1waIAAUkQk.png
+#  - title: "Koguma"
+#    url: /assets/FtuTu1waIAAUkQk.png
   - title: "Tags"
     url: /tags/
   - title: "Archive"
