@@ -1,9 +1,10 @@
 ---
+layout: archive
 title: "About Tommy Shau"
 permalink: /about/
 date: 2017-02-26T00:59:00+00:00
+author_profile: false
 ---
-
 
 <!---As part of the Support team from Microsoft my goal is to enable customers make most out of Technology, where I get to help people from around the world and from various business areas. -->
 # About Tommy 
