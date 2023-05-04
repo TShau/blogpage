@@ -28,6 +28,5 @@ The learning path there will give you basic insights into cloud concepts, Azure 
 
 
 Last but not least, whats important in your learning journey is to get hands-on practice. If you don't have an Azure subscription, you can sign up for a free account with 200$ free credit and 55+ free services.  
-[Azure - create a free subscription](https://azure.microsoft.com/en-in/free/)![image](https://user-images.githubusercontent.com/17855499/236331899-5dad864a-6a6c-434a-a10a-55692ba6808c.png)
-
+[Azure - create a free subscription](https://azure.microsoft.com/en-in/free/)
 
