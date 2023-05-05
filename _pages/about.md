@@ -8,8 +8,7 @@ author_profile: false
 
 <!---As part of the Support team from Microsoft my goal is to enable customers make most out of Technology, where I get to help people from around the world and from various business areas. -->
 # About Tommy 
-
-<!--- foto-->
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/pics/Bild%20-%20Tommy%20Shau.PNG){: .align-right}
 
 For over 10 years I have been working on the IT industry, fostering my passion as a tinker, building awesome stuff and occasionally publishing my work on the web.
 I graduated in electrical engineering at the **Technical University in Munich** majoring in Machine Learning and Human Machine Interaction. 
