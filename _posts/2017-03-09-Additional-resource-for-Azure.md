@@ -22,6 +22,9 @@ While those resources are recommended to learn after getting a foundational know
 • [Get started guide for Azure developers](https://learn.microsoft.com/en-us/samples/browse/?expanded=azure&products=azure-resource-manager)– Get practice by deploying example resources through Azure Resource Manager templates. A useful library not only for practical learning but also for staring your cloud infrastructure.
 
 ## Azure Architecture and Cloud Concepts
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/pics/where-to-start-azure-02.png){: .align-center}
+
 • [Azure Architecture Center](https://learn.microsoft.com/de-de/azure/architecture/?WT.mc_id=modinfra-10582-thmaure) – If you want to learn how to create complete solutions using Microsoft Azure, you can visit the Azure Architecture Center. It has resources such as reference architectures, best practices, design patterns, scenario guides, and reference implementations that will help you design and build your solutions.   
 • [Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/?WT.mc_id=modinfra-10582-thmaure)– The Cloud Adoption Framework is how Microsoft helps customers adopt Azure cloud through best practices. The framework contains tools, guidances, that help customers adopt their workload to the cloud. This guidance follows the phases of the cloud adoption lifecycle, such as Strategy, Plan, Ready, Migrate, Innovate, Secure, Manage and Govern.   
 • [Azure Migration Center](https://azure.microsoft.com/en-us/solutions/migration/migration-journey/?WT.mc_id=modinfra-10582-thmaure&activetab=pivot:planningtab)– As the name suggests this helps you descover how to transfer your apps, data, and infrastructure to Azure using a tested and reliable cloud migration and modernization method. Also, access cloud migration and modernization planning resources and guidance to help you speed up your journey and move with assurance.      
