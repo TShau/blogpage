@@ -4,9 +4,9 @@ last_modified_at:   2023-03-04 09:00:07
 categories: 
   - Azure
 tags:
-  - update
   - Azure
   - VS Code
+  - ARM
 description: "Quick Tutorial on how to create ARM templates using Visual Studio Code"
 
 toc: true
