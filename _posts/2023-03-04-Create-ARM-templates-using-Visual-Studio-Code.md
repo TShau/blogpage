@@ -15,6 +15,7 @@ toc_label: "Getting Started with ARM"
 <!--write an introduction to a blog-->
 In this article, you learn how to create an ARM template using Visual Studio Code. You learn how to create an ARM template from scratch, and how to use the Azure Resource Manager Tools for Visual Studio Code to create an ARM template. You also learn how to use the Azure Resource Manager Tools for Visual Studio Code to validate and deploy an ARM template.
 
+## Prequisities 
 You will need to install the Azure Resource Manager tools extension on VS code before you begin.
 You can use Visual Studio Code to author and validate ARM templates. The Azure Resource Manager Tools extension for Visual Studio Code provides the following features:
 
@@ -28,16 +29,31 @@ You can use Visual Studio Code to author and validate ARM templates. The Azure R
 
 Another prequisity to author ARM templates is that you have the Azure CLI or Azure PowerShell module installed. You can use either the Azure CLI or Azure PowerShell module to deploy ARM templates. In this article, you use the Azure CLI.
 
-<!--rewrite below text-->
+
+## Using VS code for creating resources
 
 Here are some steps you can follow to use ARM templates on VS Code:
 
-Create an ARM template by creating and opening a new file named azuredeploy.json with Visual Studio Code.
-Enter “arm” into the code editor, which initiates Azure Resource Manager snippets for scaffolding out an ARM template.
-Select “arm!” to create a template scoped for an Azure resource group deployment.
-Add an Azure resource by using snippets for many Azure resources included in the extension.
-Completion and validation is one of the most powerful capabilities of the extension with its integration with Azure schemas.
-Add template parameters.
-Create a parameter file.
-Deploy the template.
-Clean up resources.
+Create the ARM template by creating a new file named deploy.json with Visual Studio Code.
+Enter “arm” into the code editor, which shows you options for generating a basic building block of an ARM template.
+<!--image 01-->
+Select "arm!" for a regular ARM template. 
+Next, we will create a storage account as an example. Go to the "resources" block and type "storage". Notice that the VS extension will offer snippets that can be used to quickly generate the barebone of a resource. In this case, we select "arm-storage". 
+<!--image 02-->
+
+## Completion and validation
+
+The ARM tools Extension offers integration with Azure schemas, which provide completion and validation capabilities. 
+E.g. if you were to write a invalid value on the attribute "kind", you will get a warning indication and you will get a message box by hovering the cursor on it. 
+<!--image 04-->
+To use the completion capbabilities, you can use the hotkey ctrl + space. 
+Leveraging that is to be useful when it comes to writing the template in a fast and failsave manner.
+<!--image 03-->
+
+## Deploy the template
+Deployment in VS code is done quickly by opening the integrated terminal. A requirement here is the Azure PowerShell module or the Azure CLI module. 
+
+New-AzResourceGroup -Name test-RG -Location eastus
+New-AzResourceGroupDeployment -ResourceGroupName test-RG -TemplateFile ./deploy.json 
+
+
