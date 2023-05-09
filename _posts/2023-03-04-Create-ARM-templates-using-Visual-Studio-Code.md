@@ -41,7 +41,7 @@ Enter 'arm' into the code editor, which shows you options for generating a basic
 Select 'arm!' for a regular ARM template. 
 Next, we will create a storage account as an example. Go to the "resources" block and type 'storage'. Notice that the VS extension will offer snippets that can be used to quickly generate the barebone of a resource. In this case, we select 'arm-storage'. 
 
-<!--![image-center]({{ site.url }}{{ site.baseurl }}/assets/pics/vs-arm-01.gif){: .align-center}-->
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/pics/vs-arm-01.gif){: .align-center}
 
 ![priority plus masthead animation]({{ "/assets/pics/vs-arm-01.gif" | relative_url }})
 
