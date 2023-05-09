@@ -45,6 +45,10 @@ Next, we will create a storage account as an example. Go to the "resources" bloc
 
 ![priority plus masthead animation]({{ "/assets/pics/vs-arm-01.gif" | relative_url }})
 
+<figure>
+  <img src="{{ '/assets/pics/vs-arm-01.gif' | relative_url }}" alt="creating a new branch on GitHub">
+</figure>
+
 ## Completion and validation
 
 The ARM tools Extension offers integration with Azure schemas, which provide completion and validation capabilities. 
