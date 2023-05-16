@@ -28,4 +28,10 @@ For a national cloud user, follow these steps to set the Azure environment first
 7. Search on the following string: Azure: Cloud
 Select the nation cloud from the list:
 
-##Find aliases for resource properties
+## Find aliases for resource properties
+
+On the Azure Resource Explorer on the left pane you will be able to find a tree of all of your Resource Groups along with their Resources. These resources will show you the JSON representation with all its property values. 
+Hovering your cursor over the properties will disply the **Azure Policy alias** that you need to create your own policy definitions. 
+
+
+For more information check the [public documentation](https://learn.microsoft.com/en-us/azure/governance/policy/how-to/extension-for-vscode)
