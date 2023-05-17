@@ -28,7 +28,17 @@ I realized that I couldn’t just jump in without a plan. I needed a clear learn
 [Microsoft Certifications](https://learn.microsoft.com/en-us/certifications/)
 
 First of all, I believe that setting a goal is the best way to motivate yourself to do something. For starters, I think that learning for AZ-900 (Azure Fundamentals) exam is a good entry on the Azure world - not only for developers but also for admins, PMs and generally 'business people'. 
-However, when it comes to actually spending the exam fee on AZ-900, I would advise you to consider if your learning path ends here, or if you intend to actually target the higher level certifications.
+
+## Certification levels
+There are four different levels of certificaitons, arranged from beginner to expert. 
+The before mentioned AZ-900 exam belongs to the **Fundamentals** level certification. It is targetted to anyone starting to learn cloud computing and Azure as a product in general. I only recommend to spend the exam fee on this exam, only if the fundamentals certification is your end goal.
+If you intend to target a higher level certification, I advice to skip this exam and continue with the next level.
+
+The **Associate** level is targetted towards administrators who have a fundamental understanding in IT and virtual computing. This is the perfect level for an IT professional, who is looking for stepping into the world of Azure. 
+The **Expert** level is targeted to professionals, which prior experience on Azure. While the required exams can be taken as you want, the certificaton itself can only be obtained, if you already got a related certification of the previous level. E.g. For **Azure Solutions Architect Expert**, you need the certification **Azure Administrator Associate** and the completion of the exam **AZ-305**
 
 
-<!--You might have some IT experience. You might have tried AWS, GCP, or Azure. You might think you’re ready to dive in. Hold on. You should probably start with the Azure Fundamentals certification. At best, it will be easy for you. But no matter how far you go in Azure, this cert will lay the groundwork for future success. The next certification on the path is the Azure Administrator Associate, and it can be quite tough. You’ll need all the skills from the Fundamentals cert and a lot of practice with Azure before taking it.-->
+<!--https://k21academy.com/microsoft-azure/az-900/certification-path/-->
+
+## Conclusion
+If you have interests in making a career with Microsoft Azure, I highly recommend to get one of the above mentioned certifications. 
