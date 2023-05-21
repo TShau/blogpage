@@ -33,5 +33,8 @@ Select the nation cloud from the list:
 On the Azure Resource Explorer on the left pane you will be able to find a tree of all of your Resource Groups along with their Resources. These resources will show you the JSON representation with all its property values. 
 Hovering your cursor over the properties will disply the **Azure Policy alias** that you need to create your own policy definitions. 
 
-
 For more information check the [public documentation](https://learn.microsoft.com/en-us/azure/governance/policy/how-to/extension-for-vscode)
+
+That said, there have been incidents, where I was looking for an alias that VS Code was not showing to me. To be absolutely sure, if an alias actually exist, I would use a Powershell command  like ````(Get-AzPolicyAlias -resourcetypematch "foo").aliases```` to get a list of all supported aliases of a matching resource type. This command also enables norrowing down the scope of possible matches.
+
+<!-- Doc link--> 
