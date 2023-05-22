@@ -13,6 +13,7 @@ toc_label: "Azure Cloud Service"
 ---
 
 Archived from https://learn.microsoft.com/en-us/troubleshoot/azure/cloud-services/dev-troubleshoot-series
+
 https://learn.microsoft.com/en-us/archive/blogs/kwill/windows-azure-paas-compute-diagnostics-data
 
 Cloud service is one of most popular Azure PaaS service among web developers. These blog series includes some of the common problems faced by the customers while dealing with cloud service and how to troubleshoot those issues using various tools and logs. This blog focuses on some more common scenarios that you may face while developing and deploying cloud service solution to Azure.
