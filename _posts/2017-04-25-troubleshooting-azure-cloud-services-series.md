@@ -28,6 +28,7 @@ In order to simulate the issues we have developed three cloud service applicatio
 Let's deep dive into the troubleshooting series on Azure Cloud Service:
 
 [Scenario 1: An instance of ZipEngine role is looping between Restarting and Busy state throwing an unhandled exception.](https://learn.microsoft.com/de-DE/troubleshoot/azure/cloud-services/dev-zipengine-role-stuck-busy-restart)
+
 [Scenario 2: AssemblyBinder role instances is throwing System.IO.IOException.](https://learn.microsoft.com/de-DE/troubleshoot/azure/cloud-services/dev-assemblybinder-role-instance-stuck-busy-restart)
 
 [Scenario 3: Autoscale is not triggering for FileUploader role.](https://learn.microsoft.com/de-DE/troubleshoot/azure/cloud-services/dev-assemblybinder-role-instance-stuck-busy-restart)
