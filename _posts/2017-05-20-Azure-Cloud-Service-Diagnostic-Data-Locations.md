@@ -60,6 +60,6 @@ Keep in mind that a new deployment will incur downtimes. Here is a workaround th
 ´´´´New-AzureReservedIP -ReservedIPName {new reserved IP name} -Location {location} -ServiceName {existing service name}´´´´
 - After that Delete and redeploy just like in the previous solution.
 
-
+TODO: needs rewrite
 
 
