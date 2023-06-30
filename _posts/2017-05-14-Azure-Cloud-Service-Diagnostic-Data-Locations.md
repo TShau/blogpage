@@ -82,3 +82,5 @@ This is not a log file which contains runtime generated information, but it will
   
 <!--Note-->  
 If you look in the C:\Logs folder you will find RuntimeEvents_{iteration}.etl and WaAppAgent_{iteration}.etl files.  These are ETW traces which contain a compilation of the information found in the Windows Azure Event Logs, Guest Agent Logs, and other logs.  This is a very convenient compilation of all of the most important log data in an Azure VM, but because they are in ETL format it requires a few extra steps to consume the information.  If you have a favorite ETW viewing tool then you can ignore several of the above mentioned log files and just look at the information in these two ETL files.  
+
+TODO: needs rewrite
