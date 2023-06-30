@@ -54,3 +54,5 @@ Understanding the differences between deep learning and machine learning is cruc
 By recognizing their unique attributes and areas of expertise, we can harness their potential to unlock new frontiers in AI and fuel advancements in numerous industries. 
 Whether it's solving complex problems or automating routine tasks, both deep learning and machine learning are driving the AI revolution forward, transforming our world one algorithm at a time.
 
+
+Todo: needs full rewrite
