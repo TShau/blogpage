@@ -41,7 +41,11 @@ First, you'll need to create an account on the Azure portal. Once you have an ac
 **Step 2**: Create a CDN Endpoint
  
 Next, within your CDN profile, create a new CDN endpoint. The endpoint is the specific URL where your content will be delivered from.
- 
+
+''''
+Note: 07/2023 Currently the Azure Portal UI also includes integration of CDNs from a Storage Account. Navigate from any  Storage account to "Security+Networking"->"Front Door and CDN".   
+''''
+
 **Step 3**: Configure Your CDN Endpoint
  
 You can now specify details for your endpoint, like which origin server it should pull content from and the type of content it should cache. Azure CDN allows you to configure these settings based on your specific needs.
