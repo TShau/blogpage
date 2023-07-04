@@ -9,5 +9,7 @@ Being able to understand abstract features enables better learning of specific t
 What makes Deep Learning so promising is the efficient computing of those features compared to laborious hand-crafted methods for feature extraction.
 Most Deep Learning architectures involve artificial neural network models, like deep belief net-works, deep Boltzmann machines, or convolutional neural networks (CNN).
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/pics/Deeplearning-representation.png){: .align-center}
+
 For a better understanding, the following sections introduce Deep Learning, starting with basic machine learning models like neural networks to deep structured CNN.
 In the process, the mathematical background, architecture, and diverse techniques of machine learning shall be explained.
