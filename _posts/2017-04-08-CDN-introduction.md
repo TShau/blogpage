@@ -32,7 +32,7 @@ Azure CDN offers several unique advantages:
 • Integration: It seamlessly integrates with other Azure services, allowing for a cohesive web solution.
 • Security: Azure CDN provides robust security features like DDoS protection and data encryption.
  
-Step-by-Step Guide to Setting Up Your Website on Azure CDN
+## Step-by-Step Guide to Setting Up Your Website on Azure CDN
  
 Step 1: Create an Azure Account and CDN Profile
  
