@@ -21,7 +21,7 @@ The digital world is fast-paced, and every second counts. For a website, speed i
 A CDN is a network of servers located around the world that store copies of your website content, such as images, videos, and HTML pages. 
 Whenever a user requests content from your website, the CDN will deliver it from the server closest to the user's location. This effectively speeds up the loading time of web pages and reduces latency.
  
-How Does Azure CDN Work?
+## How Does Azure CDN Work?
  
 Azure CDN is Microsoft's solution for offering a robust and scalable content delivery platform. Azure CDN works by caching your website content across its global network of edge servers. 
  
