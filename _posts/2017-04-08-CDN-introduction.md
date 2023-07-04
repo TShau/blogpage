@@ -27,10 +27,10 @@ Azure CDN is Microsoft's solution for offering a robust and scalable content del
  
 Azure CDN offers several unique advantages:
  
-• Global Coverage: Azure CDN boasts a vast network of edge servers strategically located worldwide, ensuring fast content delivery regardless of user location.
-• Scalability: Azure CDN can easily handle sudden traffic spikes, making it ideal for websites with fluctuating traffic.
-• Integration: It seamlessly integrates with other Azure services, allowing for a cohesive web solution.
-• Security: Azure CDN provides robust security features like DDoS protection and data encryption.
+• **Global Coverage**: Azure CDN boasts a vast network of edge servers strategically located worldwide, ensuring fast content delivery regardless of user location.
+• **Scalability**: Azure CDN can easily handle sudden traffic spikes, making it ideal for websites with fluctuating traffic.
+• **Integration**: It seamlessly integrates with other Azure services, allowing for a cohesive web solution.
+• **Security**: Azure CDN provides robust security features like DDoS protection and data encryption.
  
 ## Step-by-Step Guide to Setting Up Your Website on Azure CDN
  
