@@ -34,28 +34,28 @@ Azure CDN offers several unique advantages:
  
 ## Step-by-Step Guide to Setting Up Your Website on Azure CDN
  
-Step 1: Create an Azure Account and CDN Profile
+**Step 1**: Create an Azure Account and CDN Profile
  
 First, you'll need to create an account on the Azure portal. Once you have an account, navigate to the 'Create a resource' section and select 'CDN Profile'. Think of the CDN profile as a container for your CDN endpoints.
  
-Step 2: Create a CDN Endpoint
+**Step 2**: Create a CDN Endpoint
  
 Next, within your CDN profile, create a new CDN endpoint. The endpoint is the specific URL where your content will be delivered from.
  
-Step 3: Configure Your CDN Endpoint
+**Step 3**: Configure Your CDN Endpoint
  
 You can now specify details for your endpoint, like which origin server it should pull content from and the type of content it should cache. Azure CDN allows you to configure these settings based on your specific needs.
  
-Step 4: Test Your CDN Endpoint
+**Step 4**: Test Your CDN Endpoint
  
 Once your endpoint is configured, test it to ensure that it's delivering content correctly. You can do this by navigating to the endpoint URL and verifying that the content loads correctly.
  
-Best Practices for Azure CDN Optimization
+## Best Practices for Azure CDN Optimization
  
-1. Configure Caching Policies: Properly set your caching rules to control how and when Azure CDN caches content. This can greatly improve performance.
-2. Enable Compression: Azure CDN supports content compression, which can reduce data usage and improve load times even more.
-3. Use HTTPS: Secure your content delivery by enabling HTTPS for your CDN endpoints.
-4. Monitor Traffic: Azure CDN provides detailed analytics. Regularly monitor these to understand your traffic patterns and optimize accordingly.
+1. **Configure Caching Policies**: Properly set your caching rules to control how and when Azure CDN caches content. This can greatly improve performance.
+2. **Enable Compression**: Azure CDN supports content compression, which can reduce data usage and improve load times even more.
+3. **Use HTTPS**: Secure your content delivery by enabling HTTPS for your CDN endpoints.
+4. **Monitor Traffic**: Azure CDN provides detailed analytics. Regularly monitor these to understand your traffic patterns and optimize accordingly.
  
  
-In conclusion, setting up your website on Azure CDN can significantly enhance your site's performance and user experience. With this guide, you're now equipped to get started with Azure CDN. Happy optimizing!![image](https://github.com/TShau/blogpage/assets/17855499/432718ac-a2d5-4fe3-8805-773a433e222f)
+In conclusion, setting up your website on Azure CDN can significantly enhance your site's performance and user experience. With this guide, you're now equipped to get started with Azure CDN. Happy optimizing!
