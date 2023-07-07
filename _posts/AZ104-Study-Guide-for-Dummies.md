@@ -83,3 +83,8 @@ Table and Queue only
 Blob, Table, and File only
 Blob, File, Table, and Queue
 Blob and File only
+
+Final Remarks
+It is not enough to understand the concepts at a high level. You also need to get hands-on experience by using the Microsoft Azure Portal. Simulate different scenarios that will help you deepen your understanding of various services. The combination of practical and theoretical knowledge will help you analyze difficult questions in the exam. 
+
+A few reminders that we can give is to always check the time and review your answers before proceeding to the next question (especially in the case study and yes/no questions). Before your scheduled exam day, don’t forget to take a good rest. If you’re not feeling confident yet, there’s always an option to reschedule your exam. Good luck, and we wish you all the best.
