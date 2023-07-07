@@ -71,4 +71,15 @@ If you’re feeling confident because you’ve followed the recommended material
 
 These practice tests cover the relevant topics that you can expect from the real exam. It also contains different types of questions such as single choice, multiple response, hotspot, yes/no, drag and drop, and case studies. Every question on these practice exams has a detailed explanation and adequate reference links that help you understand why the correct answer is the most suitable solution. After you’ve taken the exams, it will highlight the areas that you need to improve on. Together with our cheat sheets, we’re confident that you’ll be able to pass the exam and have a deeper understanding of how Azure works.
 
+Sample Practice Test Questions:
+Question 1
+Your company has an Azure Storage account named TutorialsDojo1.
 
+You have to copy your files hosted on your on-premises network to TutorialsDojo1 using AzCopy.
+
+What Azure Storage services will you be able to copy your data into?
+
+Table and Queue only
+Blob, Table, and File only
+Blob, File, Table, and Queue
+Blob and File only
