@@ -34,3 +34,5 @@ Todo functions
 
 The image above shows an example  of  the  principle  of  supervised  learning  process on classification of handwriting.  
 During the training phase the model is trained with its initial parameters and a training set. Each training sample is labeled with the class, which the ML algorithm shall learn from.
+
+## Perceptron
