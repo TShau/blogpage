@@ -63,3 +63,7 @@ Once your endpoint is configured, test it to ensure that it's delivering content
  
  
 In conclusion, setting up your website on Azure CDN can significantly enhance your site's performance and user experience. With this guide, you're now equipped to get started with Azure CDN. Happy optimizing!
+
+TODO:
+- images
+- test for performance.
