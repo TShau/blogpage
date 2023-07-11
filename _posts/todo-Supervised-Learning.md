@@ -35,3 +35,5 @@ Supervised learning has paved the way for numerous groundbreaking applications a
 
 ## Conclusion:
 Supervised learning has emerged as a dominant force in the field of artificial intelligence, enabling machines to learn from labeled data and make accurate predictions. With its ability to tackle complex problems and improve performance across a wide range of applications, supervised learning continues to push the boundaries of what machines can achieve. As technology advances and datasets grow larger, the power of supervised learning will only continue to expand, opening up new possibilities
+
+<!-- Todo: Rewrite-->
