@@ -39,4 +39,5 @@ In 2008, Netflix encountered a major setback when a database corruption halted t
 Utilizing the power of the cloud can greatly enhance the security and integrity of your data. Migrating your apps to the cloud offers the remarkable advantage of accessing super secure data centers. Additionally, by storing your data offsite, you eliminate the risks associated with theft or mismanagement, ensuring its safety.
 Furthermore, the ability to access your data from anywhere at any time grants you greater control over who can access it. You have the option to implement role-based authentication, which allows you to restrict user access based on your desired level of security. This feature not only strengthens accountability within the organization but also ensures compliance with regulations.
 
+<!--TODO: Images, manual rewrite-->
 
