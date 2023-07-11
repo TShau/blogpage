@@ -1,4 +1,16 @@
+---
+title:  "10 Practical Use Cases for Cloud Computing"
+last_modified_at:   2017-03-11 00:24:44
+categories: 
+  - Azure
+  - Cloud Computing
+tags:
+  - learning
+description: "10 Practical Use Cases for Cloud Computing"
 
+toc: true
+toc_label: "Learning Azure"
+---
 
 ## 10 Common Use Cases of Cloud Computing
 
